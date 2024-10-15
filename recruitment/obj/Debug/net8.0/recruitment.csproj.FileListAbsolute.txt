@@ -1,0 +1,14 @@
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\bin\Debug\net8.0\recruitment.exe
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\bin\Debug\net8.0\recruitment.deps.json
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\bin\Debug\net8.0\recruitment.runtimeconfig.json
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\bin\Debug\net8.0\recruitment.dll
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\bin\Debug\net8.0\recruitment.pdb
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.AssemblyInfoInputs.cache
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.AssemblyInfo.cs
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.csproj.CoreCompileInputs.cache
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.dll
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\refint\recruitment.dll
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.pdb
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.genruntimeconfig.cache
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\ref\recruitment.dll
