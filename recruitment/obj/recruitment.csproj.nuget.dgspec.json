@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\recruitment.csproj": {}
+    "c:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\recruitment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\recruitment.csproj": {
+    "c:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\recruitment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\recruitment.csproj",
+        "projectUniqueName": "c:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\recruitment.csproj",
         "projectName": "recruitment",
-        "projectPath": "C:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\recruitment.csproj",
+        "projectPath": "c:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\recruitment.csproj",
         "packagesPath": "C:\\Users\\alexander.swedlund\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\obj\\",
+        "outputPath": "c:\\Users\\alexander.swedlund\\New folder\\recruitment\\recruitment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

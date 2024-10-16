@@ -12,3 +12,4 @@ c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\
 c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.pdb
 c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.genruntimeconfig.cache
 c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\ref\recruitment.dll
+c:\Users\alexander.swedlund\New folder\recruitment\recruitment\obj\Debug\net8.0\recruitment.sourcelink.json
